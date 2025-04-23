@@ -3,7 +3,7 @@ Prathamesh Pawar
 
 Welcome to my Portfolio!
 
-I'm Prathamesh Pawar, a B.Tech student at IIT Hyderabad with a passion for Artificial Intelligence, Machine Learning, and Intelligent Agent Design. This portfolio showcases my journey, skills, projects, and experiences in the field of technology.
+I'm Prathamesh Pawar, a B.Tech student at IIT Hyderabad with a passion for Artificial Intelligence, Machine Learning, System Modeling and Intelligent Agent Design. This portfolio showcases my journey, skills, projects, and experiences in the field of technology.
 
 ## Live Site
 
