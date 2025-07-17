@@ -49,7 +49,7 @@ This is a single-page portfolio website. Each section (Home, About, Experience, 
 
 - GitHub: https://github.com/prathameshppawar08
 - LinkedIn: https://linkedin.com/in/prathameshpawar
-- Email: your-email@example.com
+- Email: your-prathameshppawar08@gmail.com
 
 ## License
 
