@@ -51,6 +51,3 @@ This is a single-page portfolio website. Each section (Home, About, Experience, 
 - LinkedIn: https://linkedin.com/in/prathameshpawar
 - Email: prathameshppawar08@gmail.com
 
-## License
-
-This project is open source and available under the MIT License.
